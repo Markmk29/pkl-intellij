@@ -1,4 +1,4 @@
-= Pkl IntelliJ Plugin
+	end script = Pkl IntelliJ Plugin
 
 :experimental:
 :uri-docs: https://pkl-lang.org/intellij/current
